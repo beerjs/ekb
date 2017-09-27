@@ -6,4 +6,4 @@
 
 The legendary frontend meetup is back again!
 
-Usual time: **Wednesday at 8:00 p.m.** 🖤
+Usual time: **Wednesday at 8:00 p.m.**
