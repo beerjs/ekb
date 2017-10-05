@@ -7,3 +7,9 @@
 The legendary frontend meetup is back again!
 
 Usual time: **Wednesday at 8:00 p.m.**
+
+## Releases
+
+Version | Place                                                       | Date
+--------|-------------------------------------------------------------|------------------
+0       | [Капчо Бар](https://github.com/beerjs/ekb/issues/1)         | 4 October 2017
