@@ -6,7 +6,7 @@ The legendary frontend meetup is back again!
 
 Usual time: **Wednesday at 8:00 p.m.**
 
-Join us on [Telegram](https://t.me/beerjs_ekb).
+Press 'Watch' button and join us on [Telegram](https://t.me/beerjs_ekb).
 
 ## Releases
 
