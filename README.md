@@ -14,4 +14,4 @@ Version | Place                                                       | Date
 --------|-------------------------------------------------------------|------------------
 1       | [Капчо Бар](https://github.com/beerjs/ekb/issues/1)         |  4 October 2017
 2       | [Grott Bar](https://github.com/beerjs/ekb/issues/2)         | 18 October 2017
-3       | [RatsKeller](https://github.com/beerjs/ekb/issues/3)        |  2 November 2017
+3       | [RatsKeller](https://github.com/beerjs/ekb/issues/3)        |  1 November 2017
