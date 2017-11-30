@@ -16,3 +16,4 @@ Version | Place                                                       | Date
 2       | [Grott Bar](https://github.com/beerjs/ekb/issues/2)         | 18 October 2017
 3       | [RatsKeller](https://github.com/beerjs/ekb/issues/3)        |  1 November 2017
 4       | [Burgmen](https://github.com/beerjs/ekb/issues/4)           | 15 November 2017
+5       | [Brittania](https://github.com/beerjs/ekb/issues/5)         | 29 November 2017
