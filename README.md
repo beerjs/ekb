@@ -17,3 +17,4 @@ Version | Place                                                       | Date
 3       | [RatsKeller](https://github.com/beerjs/ekb/issues/3)        |  1 November 2017
 4       | [Burgmen](https://github.com/beerjs/ekb/issues/4)           | 15 November 2017
 5       | [Brittania](https://github.com/beerjs/ekb/issues/5)         | 29 November 2017
+6       | [Burgmen](https://github.com/beerjs/ekb/issues/6)           | 13 December 2017
