@@ -20,3 +20,4 @@ Version | Place                                                       | Date
 6       | [Burgmen](https://github.com/beerjs/ekb/issues/6)           | 13 December 2017
 7       | [Мой друг Оливье](https://github.com/beerjs/ekb/issues/7)   | 10 January 2018
 8       | [Gordon's Doctor Scotch Pub](https://github.com/beerjs/ekb/issues/8) | 24 January 2018
+9       | [Bierhof](https://github.com/beerjs/ekb/issues/9)           | 7 February 2018
