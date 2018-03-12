@@ -22,3 +22,4 @@ Version | Place                                                       | Date
 8       | [Gordon's Doctor Scotch Pub](https://github.com/beerjs/ekb/issues/8) | 24 January 2018
 9       | [Bierhof](https://github.com/beerjs/ekb/issues/9)           | 7 February 2018
 10      | [The Yankee Bar](https://github.com/beerjs/ekb/issues/10)   | 21 February 2018
+11      | [Ирландский дворик](https://github.com/beerjs/ekb/issues/11)| 7 March 2018
