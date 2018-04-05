@@ -24,3 +24,4 @@ Version | Place                                                       | Date
 10      | [The Yankee Bar](https://github.com/beerjs/ekb/issues/10)   | 21 February 2018
 11      | [Ирландский дворик](https://github.com/beerjs/ekb/issues/11)| 7 March 2018
 12      | [Bukowski Grill](https://github.com/beerjs/ekb/issues/12)   | 21 March 2018
+13      | [Воронеж](https://github.com/beerjs/ekb/issues/13)          | 4 April 2018
