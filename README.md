@@ -25,3 +25,5 @@ Version | Place                                                       | Date
 11      | [Ирландский дворик](https://github.com/beerjs/ekb/issues/11)| 7 March 2018
 12      | [Bukowski Grill](https://github.com/beerjs/ekb/issues/12)   | 21 March 2018
 13      | [Воронеж](https://github.com/beerjs/ekb/issues/13)          | 4 April 2018
+14      | [Shrmps + Brgrs](https://github.com/beerjs/ekb/issues/14)   | 12 April 2018
+15      | [Brugge](https://github.com/beerjs/ekb/issues/15)           | 2 May 2018
