@@ -27,3 +27,4 @@ Version | Place                                                       | Date
 13      | [Воронеж](https://github.com/beerjs/ekb/issues/13)          | 4 April 2018
 14      | [Shrmps + Brgrs](https://github.com/beerjs/ekb/issues/14)   | 12 April 2018
 15      | [Brugge](https://github.com/beerjs/ekb/issues/15)           | 2 May 2018
+16      | [Мята](https://github.com/beerjs/ekb/issues/16)             | 16 May 2018
