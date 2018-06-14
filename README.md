@@ -29,3 +29,4 @@ Version | Place                                                       | Date
 15      | [Brugge](https://github.com/beerjs/ekb/issues/15)           | 2 May 2018
 16      | [Мята](https://github.com/beerjs/ekb/issues/16)             | 16 May 2018
 17      | [Burgmen](https://github.com/beerjs/ekb/issues/17)          | 30 May 2018
+18      | [Pan Smetan](https://github.com/beerjs/ekb/issues/18)       | 13 June 2018
