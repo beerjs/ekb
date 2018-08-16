@@ -31,3 +31,4 @@ Version | Place                                                       | Date
 17      | [Burgmen](https://github.com/beerjs/ekb/issues/17)          | 30 May 2018
 18      | [Pan Smetan](https://github.com/beerjs/ekb/issues/18)       | 13 June 2018
 19      | [Bar trip](https://github.com/beerjs/ekb/issues/19)         | 1 August 2018
+20      | [Fjord](https://github.com/beerjs/ekb/issues/20)            | 15 August 2018
