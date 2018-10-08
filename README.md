@@ -33,3 +33,5 @@ Version | Place                                                       | Date
 19      | [Bar trip](https://github.com/beerjs/ekb/issues/19)         | 1 August 2018
 20      | [Fjord](https://github.com/beerjs/ekb/issues/20)            | 15 August 2018
 21      | [Географ](https://github.com/beerjs/ekb/issues/21)          | 29 August 2018
+22      | [Спящая собака](https://github.com/beerjs/ekb/issues/22)    | 12 September 2018
+23      | [Нельсон Совин](https://github.com/beerjs/ekb/issues/23)    | 26 September 2018
