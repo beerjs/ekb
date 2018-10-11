@@ -35,3 +35,4 @@ Version | Place                                                       | Date
 21      | [Географ](https://github.com/beerjs/ekb/issues/21)          | 29 August 2018
 22      | [Спящая собака](https://github.com/beerjs/ekb/issues/22)    | 12 September 2018
 23      | [Нельсон Совин](https://github.com/beerjs/ekb/issues/23)    | 26 September 2018
+24      | [Капчо](https://github.com/beerjs/ekb/issues/24)            | 10 October 2018
