@@ -36,3 +36,4 @@ Version | Place                                                       | Date
 22      | [Спящая собака](https://github.com/beerjs/ekb/issues/22)    | 12 September 2018
 23      | [Нельсон Совин](https://github.com/beerjs/ekb/issues/23)    | 26 September 2018
 24      | [Капчо](https://github.com/beerjs/ekb/issues/24)            | 10 October 2018
+25      | [На работе](https://github.com/beerjs/ekb/issues/25)        | 24 October 2018
