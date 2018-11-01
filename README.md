@@ -37,3 +37,4 @@ Version | Place                                                       | Date
 23      | [Нельсон Совин](https://github.com/beerjs/ekb/issues/23)    | 26 September 2018
 24      | [Капчо](https://github.com/beerjs/ekb/issues/24)            | 10 October 2018
 25      | [На работе](https://github.com/beerjs/ekb/issues/25)        | 24 October 2018
+26      | [Био Шмио](https://github.com/beerjs/ekb/issues/27)         | 31 October 2018
