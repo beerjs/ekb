@@ -39,3 +39,4 @@ Version | Place                                                       | Date
 25      | [На работе](https://github.com/beerjs/ekb/issues/25)        | 24 October 2018
 🍷      | [Био Шмио](https://github.com/beerjs/ekb/issues/27)         | 31 October 2018
 26      | [Hopsinjoor](https://github.com/beerjs/ekb/issues/28)       | 7 November 2018
+27      | [SIX](https://github.com/beerjs/ekb/issues/29)              | 21 November 2018 
