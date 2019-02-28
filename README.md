@@ -43,4 +43,5 @@ Version | Place                                                       | Date
 💻      | [Комбинат](https://github.com/beerjs/ekb/issues/30)         | 5 December 2018
 28      | [Борода](https://github.com/beerjs/ekb/issues/31)           | 19 December 2018
 29      | [Опыт](https://github.com/beerjs/ekb/issues/32)             | 23 January 2019
-30      | [Хижина](https://github.com/beerjs/ekb/issues/33)           | 13 January 2019
+30      | [Хижина](https://github.com/beerjs/ekb/issues/33)           | 13 February 2019
+31      | [Fat dog](https://github.com/beerjs/ekb/issues/34)          | 27 February 2019
