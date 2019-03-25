@@ -45,3 +45,4 @@ Version | Place                                                       | Date
 29      | [Опыт](https://github.com/beerjs/ekb/issues/32)             | 23 January 2019
 30      | [Хижина](https://github.com/beerjs/ekb/issues/33)           | 13 February 2019
 31      | [Fat dog](https://github.com/beerjs/ekb/issues/34)          | 27 February 2019
+32      | [Крафт Депо](https://github.com/beerjs/ekb/issues/35)       | 13 March 2019
