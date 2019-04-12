@@ -46,3 +46,6 @@ Version | Place                                                       | Date
 30      | [Хижина](https://github.com/beerjs/ekb/issues/33)           | 13 February 2019
 31      | [Fat dog](https://github.com/beerjs/ekb/issues/34)          | 27 February 2019
 32      | [Крафт Депо](https://github.com/beerjs/ekb/issues/35)       | 13 March 2019
+33      | [Капчо](https://github.com/beerjs/ekb/issues/36)            | 27 March 2019
+34      | [Cannonball Brasserie](https://github.com/beerjs/ekb/issues/38) | 10 April 2019
+
