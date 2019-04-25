@@ -49,4 +49,6 @@ Version | Place                                                       | Date
 33      | [Капчо](https://github.com/beerjs/ekb/issues/36)            | 27 March 2019
 34      | [Cannonball Brasserie](https://github.com/beerjs/ekb/issues/38) | 10 April 2019
 35      | [Shrmps + Brgrs](https://github.com/beerjs/ekb/issues/39)   | 18 April 2019
+💻      | [Комбинат](https://github.com/beerjs/ekb/issues/40)         | 24 April 2019
+
 
