@@ -50,5 +50,8 @@ Version | Place                                                       | Date
 34      | [Cannonball Brasserie](https://github.com/beerjs/ekb/issues/38) | 10 April 2019
 35      | [Shrmps + Brgrs](https://github.com/beerjs/ekb/issues/39)   | 18 April 2019
 💻      | [Комбинат](https://github.com/beerjs/ekb/issues/40)         | 24 April 2019
+36      | [Leonid Isaakovich](https://github.com/beerjs/ekb/issues/41) | 8 May 2019
+37      | [Red ace](https://github.com/beerjs/ekb/issues/43)          | 5 June 2019
+38      | [Red ace](https://github.com/beerjs/ekb/issues/44)          | 19 June 2019
 
 
