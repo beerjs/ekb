@@ -53,5 +53,4 @@ Version | Place                                                       | Date
 36      | [Leonid Isaakovich](https://github.com/beerjs/ekb/issues/41) | 8 May 2019
 37      | [Red ace](https://github.com/beerjs/ekb/issues/43)          | 5 June 2019
 38      | [Red ace](https://github.com/beerjs/ekb/issues/44)          | 19 June 2019
-
-
+39      | [50 костей](https://github.com/beerjs/ekb/issues/45)        | 3 July 2019
