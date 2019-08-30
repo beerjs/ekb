@@ -54,3 +54,7 @@ Version | Place                                                       | Date
 37      | [Red ace](https://github.com/beerjs/ekb/issues/43)          | 5 June 2019
 38      | [Red ace](https://github.com/beerjs/ekb/issues/44)          | 19 June 2019
 39      | [50 костей](https://github.com/beerjs/ekb/issues/45)        | 3 July 2019
+40      | [Агонь](https://github.com/beerjs/ekb/issues/46)            | 17 July 2019
+41      | [Bar trip](https://github.com/beerjs/ekb/issues/48)         | 1 August 2019
+–       | [Metis](https://github.com/beerjs/ekb/issues/49)            | 15 August 2019
+43      | [Коллектив](https://github.com/beerjs/ekb/issues/50)        | 29 August 2019
