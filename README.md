@@ -58,3 +58,4 @@ Version | Place                                                       | Date
 41      | [Bar trip](https://github.com/beerjs/ekb/issues/48)         | 1 August 2019
 –       | [Metis](https://github.com/beerjs/ekb/issues/49)            | 15 August 2019
 43      | [Коллектив](https://github.com/beerjs/ekb/issues/50)        | 29 August 2019
+44      | [The Yankee Bar](https://github.com/beerjs/ekb/issues/51)   | 12 September 2019
