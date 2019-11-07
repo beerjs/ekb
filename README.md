@@ -61,4 +61,5 @@ Version | Place                                                       | Date
 44      | [The Yankee Bar](https://github.com/beerjs/ekb/issues/51)   | 12 September 2019
 45      | [Стрелка](https://github.com/beerjs/ekb/issues/52)          | 3 October 2019
 46      | [Капчо](https://github.com/beerjs/ekb/issues/54)            | 24 October 2019
+47      | [Твой бар](https://github.com/beerjs/ekb/issues/59)         | 6 November 2019
 
