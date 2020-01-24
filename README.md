@@ -62,4 +62,5 @@ Version | Place                                                       | Date
 45      | [Стрелка](https://github.com/beerjs/ekb/issues/52)          | 3 October 2019
 46      | [Капчо](https://github.com/beerjs/ekb/issues/54)            | 24 October 2019
 47      | [Твой бар](https://github.com/beerjs/ekb/issues/59)         | 6 November 2019
-
+💻      | [Точка](https://github.com/beerjs/ekb/issues/60)             | 21 November 2019
+48      | [На работе](https://github.com/beerjs/ekb/issues/61)         | 19 December 2019
