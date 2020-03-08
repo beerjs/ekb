@@ -66,3 +66,4 @@ Version | Place                                                       | Date
 48      | [На работе](https://github.com/beerjs/ekb/issues/61)         | 19 December 2019
 49      | [50 костей](https://github.com/beerjs/ekb/issues/62)         | 23 January 2020
 50      | [Пан Сметан](https://github.com/beerjs/ekb/issues/64)        | 19 February 2020
+51      | [Твой бар](https://github.com/beerjs/ekb/issues/66)        | 5 March 2020
