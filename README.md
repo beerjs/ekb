@@ -12,6 +12,8 @@ Usual time: **Wednesday at 8:00 p.m.**
 
 Version | Place                                                       | Date
 --------|-------------------------------------------------------------|------------------
+57      | [Практика](https://github.com/beerjs/ekb/issues/75)         | 29 July 2021
+56      | [Географ](https://github.com/beerjs/ekb/issues/74)          | 20 February 2021
 55      | [Стрелка](https://github.com/beerjs/ekb/issues/73)          | 24 December 2020
 54      | [Самоцвет](https://github.com/beerjs/ekb/issues/71)         | 29 October 2020
 53      | [Bar trip](https://github.com/beerjs/ekb/issues/69)         | 10 September 2k2d
