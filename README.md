@@ -12,6 +12,8 @@ Usual time: **Wednesday at 8:00 p.m.**
 
 Version | Place                                                       | Date
 --------|-------------------------------------------------------------|------------------
+59      | [Географ](https://github.com/beerjs/ekb/issues/77)          | 12 September 2022
+58      | [Нельсон Совин](https://github.com/beerjs/ekb/issues/76)    | 17 June 2022
 57      | [Практика](https://github.com/beerjs/ekb/issues/75)         | 29 July 2021
 56      | [Географ](https://github.com/beerjs/ekb/issues/74)          | 20 February 2021
 55      | [Стрелка](https://github.com/beerjs/ekb/issues/73)          | 24 December 2020
